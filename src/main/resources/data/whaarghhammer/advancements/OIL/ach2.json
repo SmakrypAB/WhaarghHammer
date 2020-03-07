@@ -1,0 +1,37 @@
+{
+    "display": {
+        "description": {
+            "text": "Smelt the oil bucket into Polymer Fluff!",
+            "color": "white"
+        },
+        "title": {
+            "text": "Creating Plastic I",
+            "color": "white"
+        },
+        "icon": {
+            "item": "sugar",
+            "data": 0
+        },
+        "announce_to_chat": true
+    },
+    "criteria": {
+        "inv_changed-whaarghhammer:polymer_fluff": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "whaarghhammer:polymer_fluff",
+                        "data": 0
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {},
+    "requirements": [
+        [
+            "inv_changed-whaarghhammer:polymer_fluff"
+        ]
+    ],
+    "parent": "OIL:root"
+}

@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "whaarghhammer:adamantium_ingot_smelting"
+        ]
+    },
+    "criteria": {
+        "has_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "whaarghhammer:adamantium_ore"
+                    }
+                ]
+            }
+        },
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "whaarghhammer:adamantium_ingot_smelting"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_block",
+            "has_the_recipe"
+        ]
+    ]
+}

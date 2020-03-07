@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"X X",
+		"X X"
+	],
+	"key": {
+		"X": {
+			"item": "whaarghhammer:adamantium_ingot"
+		}
+	},
+	"result": {
+		"item": "whaarghhammer:power_leggings"
+ 	}
+}

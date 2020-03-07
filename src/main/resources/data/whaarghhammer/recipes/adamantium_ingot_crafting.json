@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{ "item": "whaarghhammer:adamantium_block" }
+	],
+	"result": {
+		"item": "whaarghhammer:adamantium_ingot",
+		"count": 9
+ 	}
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values":
+    [
+        "whaarghhammer:adamantium_sword",
+        "whaarghhammer:adamantium_axe",
+        "whaarghhammer:adamantium_shovel",
+        "whaarghhammer:adamantium_pickaxe",
+        "whaarghhammer:adamantium_hoe"
+    ]
+}

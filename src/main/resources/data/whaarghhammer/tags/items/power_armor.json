@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values":
+    [
+        "whaarghhammer:power_helmet",
+        "whaarghhammer:power_chestplate",
+        "whaarghhammer:power_leggings",
+        "whaarghhammer:power_boots"
+    ]
+}

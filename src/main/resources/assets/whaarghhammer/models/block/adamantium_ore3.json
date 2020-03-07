@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "whaarghhammer:block/adamantium_ore3"
+    }
+}

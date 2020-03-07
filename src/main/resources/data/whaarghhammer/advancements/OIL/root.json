@@ -1,0 +1,37 @@
+{
+    "display": {
+        "description": {
+            "text": "Pick up a bucket of oil",
+            "color": "white"
+        },
+        "title": {
+            "text": "REIGN IN OIL",
+            "color": "white"
+        },
+        "icon": {
+            "item": "water_bucket",
+            "data": 0
+        },
+        "announce_to_chat": true,
+        "background": "whaarghhammer:/textures/blocks/adamantium_block.png"
+    },
+    "criteria": {
+        "inv_changed-whaarghhammer:oil_bucket": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "whaarghhammer:oil_bucket",
+                        "data": 0
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {},
+    "requirements": [
+        [
+            "inv_changed-whaarghhammer:oil_bucket"
+        ]
+    ]
+}

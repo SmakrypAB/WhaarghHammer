@@ -1,0 +1,40 @@
+{
+    "display": {
+        "description": {
+            "text": "Smelt down the Polymer Fluff Block into a plastic bar",
+            "color": "white"
+        },
+        "title": {
+            "text": "Creating Plastic III",
+            "color": "white"
+        },
+        "icon": {
+            "item": "iron_ingot",
+            "data": 0
+        },
+        "announce_to_chat": true,
+        "frame": "goal"
+    },
+    "criteria": {
+        "inv_changed-whaarghhammer:polymer_fluff_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "whaarghhammer:polymer_fluff_block",
+                        "data": 0
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "experience": 69
+    },
+    "requirements": [
+        [
+            "inv_changed-whaarghhammer:polymer_fluff_block"
+        ]
+    ],
+    "parent": "OIL:ach3"
+}

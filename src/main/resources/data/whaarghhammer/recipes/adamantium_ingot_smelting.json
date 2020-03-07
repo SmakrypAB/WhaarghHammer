@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "whaarghhammer:adamantium_ore" },
+	"result": "whaarghhammer:adamantium_ingot",
+	"experience": 2.3,
+	"coockingtime": 200
+}

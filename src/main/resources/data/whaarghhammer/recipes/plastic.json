@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "whaarghhammer:polymer_fluff_block"},
+	"result": "whaarghhammer:plastic",
+	"experience": 2.3,
+	"coockingtime": 200
+}

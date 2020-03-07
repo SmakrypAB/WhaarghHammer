@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "whaarghhammer:oil_bucket"},
+	"result": "whaarghhammer:polymer_fluff",
+	"experience": 2.3,
+	"coockingtime": 200
+}

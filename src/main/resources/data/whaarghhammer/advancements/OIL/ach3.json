@@ -1,0 +1,37 @@
+{
+    "display": {
+        "description": {
+            "text": "Turn the Polymer Fluff into a block",
+            "color": "white"
+        },
+        "title": {
+            "text": "Creating Plastic II",
+            "color": "white"
+        },
+        "icon": {
+            "item": "snow",
+            "data": 0
+        },
+        "announce_to_chat": true
+    },
+    "criteria": {
+        "inv_changed-whaarghhammer:polymer_fluff_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "whaarghhammer:polymer_fluff_block",
+                        "data": 0
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {},
+    "requirements": [
+        [
+            "inv_changed-whaarghhammer:polymer_fluff_block"
+        ]
+    ],
+    "parent": "OIL:ach2"
+}

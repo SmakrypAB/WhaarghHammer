@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "whaarghhammer:item/adamantium_ingot"
+	}
+}

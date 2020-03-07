@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"XXX",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "whaarghhammer:polymer_fluff"
+		}
+	},
+	"result": {
+		"item": "whaarghhammer:polymer_fluf_block"
+ 	}
+}

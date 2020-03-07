@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X X",
+		"XXX",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "whaarghhammer:adamantium_ingot"
+		}
+	},
+	"result": {
+		"item": "whaarghhammer:power_chestplate"
+ 	}
+}

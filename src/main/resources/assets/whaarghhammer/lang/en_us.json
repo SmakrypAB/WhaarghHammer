@@ -1,0 +1,31 @@
+{
+	"item.whaarghhammer.adamantium_ingot": "Adamantium Ingot",
+	"item.whaarghhammer.ceramite_ingot": "Ceramite Ingot",
+	"item.whaarghhammer.plasteel_ingot": "Plasteel Ingot",
+	"item.whaarghhammer.plastic": "Plastic",
+	"item.whaarghhammer.oil_bucket": "oil bucket",
+	
+	"item.whaarghhammer.adamantium_axe": "Adamantium Axe",
+	"item.whaarghhammer.adamantium_hoe": "Adamantium hoe",
+	"item.whaarghhammer.adamantium_pickaxe": "Adamantium Pickaxe",
+	"item.whaarghhammer.adamantium_shovel": "Adamantium Shovel",
+	"item.whaarghhammer.adamantium_sword": "Adamantium Sword",
+	
+	"item.whaarghhammer.power_helmet": "Power Helmet",
+	"item.whaarghhammer.power_chestplate": "Power Chestplate",
+	"item.whaarghhammer.power_leggings": "Power Leggings",
+	"item.whaarghhammer.power_boots": "Power Boots",
+	
+	"item.whaarghhammer.poxwalker_egg": "Poxwalker Spawn Egg",
+	
+	"block.whaarghhammer.adamantium_block": "Adamantium Block",
+	"block.whaarghhammer.adamantium_ore1": "Adamantium Ore1",
+	"block.whaarghhammer.adamantium_ore2": "Adamantium Ore2",
+	"block.whaarghhammer.adamantium_ore3": "Adamantium Ore3",
+	
+	"entity.whaarghhammer.poxwalker": "Poxwalker",
+	
+	"itemGroup.WhaarghH": "WhaarghHammer items",
+	
+	"biome.whaarghhammer.bloated_forrest": "Bloated Forrest"
+}
