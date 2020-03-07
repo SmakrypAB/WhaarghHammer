@@ -36,6 +36,34 @@ ___
 ## SPAWN LOCATION:
 can only be found in Plains Biome unless spawned in using a Poxwalker spawn egg
 
+## DROP LIST:
+
+[loot table file](https://github.com/SmakrypAB/WhaarghHammer/blob/master/src/main/resources/data/whaarghhammer/loot_tables/entities/poxwalker.json)
+
+|  item | rarity | count |
+| ------------- |-------------|:-------------:|
+| Adamantium ore (any) | 100% | 1-5 |
+| "The Sword of Sword" | 10% | 1 | 
+
+## The Sword of Sword:
+Killing a Poxwalker has a 10% chance of dropping a custom sword named "The Sword of Sword"
+
+Can **not** be obtained through commands
+
+## attributes
+
+|  attribute | value |
+| ------------- |:-------------:|
+| attack damage | 512 |
+| attack speed | 10 |
+| durability | 1 |
+| harvest level | 3 |
+| enchantability | 25  |
+| repair item | adamantium ingot |
+| Sharpness | 1000 |
+
+
+
 ## Texture
 
 [texture link](https://github.com/SmakrypAB/WhaarghHammer-1.14.4-out-dated-/blob/master/src/main/resources/assets/whaarghhammer/textures/entities/poxwalker.png)
@@ -247,6 +275,8 @@ ___
 
 ## how to get:
 place 2 [adamantium ingots](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium_ingot) over a stick in the crafting table
+
+
 
 ## crafting: 
 
