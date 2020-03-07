@@ -5,6 +5,8 @@ ___
 [**adamantium_ingot**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium_ingot)
 
 [**adamantium_sword**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium-sword)
+
+[**adamantium block**]
 ___
 # adamantium ingot 
 
@@ -250,3 +252,8 @@ ItemList.tutorial_sword = new SwordItem(ToolMaterialList.tutorial, 0, 6.0f, new 
 
 </p>
 </details>
+
+___
+
+# Adamantium Block
+
