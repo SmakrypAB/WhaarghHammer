@@ -288,9 +288,7 @@ place 2 [adamantium ingots](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/bl
 </details>
 
 ## Atributes:
-<details>
-<summary>view attributes</summary>
-<p>
+
 |  attribute | value |
 | ------------- |:-------------:|
 | attack damage | 11 |
@@ -299,8 +297,6 @@ place 2 [adamantium ingots](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/bl
 | harvest level | 3 |
 | enchantability | 25  |
 | repair item | adamantium ingot | 
-</p>
-</details>
 
 [tool material list (master for attributes)](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/master/src/main/java/smakrypsletaren/whaarghhammer/lists/ToolMaterialList.java)
 
