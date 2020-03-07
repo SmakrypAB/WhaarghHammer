@@ -15,7 +15,7 @@ smelt adamantium ore (found in the overworld, the nether and end)
 
 <img src="https://cdn.discordapp.com/attachments/390208204984025088/684100817552408619/unknown.png"> <img src="https://media.discordapp.net/attachments/390208204984025088/684097878666510358/unknown.png"> <img src="https://cdn.discordapp.com/attachments/390208204984025088/684098191255404562/unknown.png">
 
-de-craft adamantium block
+de-craft [adamantium block](https://github.com/SmakrypAB/WhaarghHammer/blob/master/items.md#adamantium-block)
 
 <img src="https://cdn.discordapp.com/attachments/390208204984025088/684096612523573269/unknown.png" alt="adamantium ingot crafting">
 
@@ -99,7 +99,7 @@ ItemList.adamantium_ingot = new Item(new Item.Properties().group(ItemGroup.MISC)
 adamantium block
 |  BLOCK | INGOTS NEEDED |
 | ------------- |:-------------:|
-| adamantium block | 9 |
+| [adamantium block](https://github.com/SmakrypAB/WhaarghHammer/blob/master/items.md#adamantium-block) | 9 |
 | total | 9 |
 ___
 
@@ -184,6 +184,9 @@ ItemList.adamantium_block = new BlockItem(BlockList.adamantium_block, new Item.P
 | ------------- |:-------------:|
 | adamantium ingot | 1 |
 | total | 1 |
+
+## block list
+[link](https://github.com/SmakrypAB/WhaarghHammer-1.14.4-out-dated-/blob/master/src/main/java/smakrypsletaren/whaarghhammer/lists/BlockList.java)
 
 ___
 
