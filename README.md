@@ -1,5 +1,5 @@
 # WhaarghHammer mod for 1.14.4
-A Minecraft mod created by [SmakrypAB](https://github.com/SmakrypAB/WhaarghHammer/blob/master/README.md#smakrypab) to implement featuers from War Hammer
+A Minecraft mod created by [SmakrypAB](https://github.com/SmakrypAB/WhaarghHammer/blob/master/README.md#smakrypab) to implement features from War Hammer
 
 ### SmakrypAB: 
 
@@ -40,7 +40,7 @@ can only be found in Plains Biome unless spawned in using a Poxwalker spawn egg
 
 [loot table file](https://github.com/SmakrypAB/WhaarghHammer/blob/master/src/main/resources/data/whaarghhammer/loot_tables/entities/poxwalker.json)
 
-|  item | rarity | count |
+|  item | chance | count |
 | ------------- |-------------|:-------------:|
 | Adamantium ore (any) | 100% | 1-5 |
 | "The Sword of Sword" | 10% | 1 | 
