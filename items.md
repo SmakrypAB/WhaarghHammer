@@ -6,7 +6,7 @@ ___
 
 [**adamantium_sword**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium-sword)
 
-[**adamantium block**]
+[**adamantium block**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/items.md#adamantium-block)
 ___
 # adamantium ingot 
 
@@ -257,3 +257,84 @@ ___
 
 # Adamantium Block
 
+
+## HOW TO GET:
+
+put 9 [adamantium ingot](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium_ingot)'s into a crafting table
+
+
+<img src="https://cdn.discordapp.com/attachments/390208204984025088/685660829617618958/unknown.png" alt="adamantium block crafting">
+
+### item texture:  
+[file link](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/41874cc925adf76cfffc23f0f1af09dd814beb78/src/main/java/smakrypsletaren/whaarghhammer/lists/ItemList.java#L7)
+
+
+<img src="https://github.com/SmakrypAB/WhaarghHammer/blob/master/src/main/resources/assets/whaarghhammer/textures/block/adamantium_block.png" alt="adamantium block" height="30" width="30"/>
+
+
+### main register: 
+
+[link](https://github.com/SmakrypAB/WhaarghHammer/blob/9b2fddaee1c97e26d90f52a338ec47521984f535/src/main/java/smakrypsletaren/whaarghhammer/WhaarghHammer.java#L107)
+
+<details>
+<summary>click to view registry code</summary>
+<p>
+
+```java
+ItemList.adamantium_block = new BlockItem(BlockList.adamantium_block, new Item.Properties().group(WhaarghH)).setRegistryName(BlockList.adamantium_block.getRegistryName()),
+```
+</p>
+</details>
+
+
+### lang file: [link](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/41874cc925adf76cfffc23f0f1af09dd814beb78/src/main/resources/assets/whaarghhammer/lang/en_us.json#L2)
+
+
+<details>
+<summary>click to view lang file code</summary>
+<p>
+
+```json
+"item.whaarghhammer.adamantium_block": "adamantium block",
+```
+
+</p>
+</details>
+
+### recipe [link](https://github.com/SmakrypAB/WhaarghHammer/blob/master/src/main/resources/data/whaarghhammer/recipes/adamantium_block.json)
+
+<details>
+<summary>click to view recipe code</summary>
+<p>
+
+```json
+  
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"XXX",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "whaarghhammer:adamantium_ingot"
+		}
+	},
+	"result": {
+		"item": "whaarghhammer:adamantium_block"
+ 	}
+}
+```
+
+</p>
+</details>
+
+## items that use adamantium ingot in crafting:
+
+|  ITEM | BLOCKS NEEDED |
+| ------------- |:-------------:|
+| adamantium ingot | 1 |
+| total | 1 |
+
+___
