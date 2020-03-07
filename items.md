@@ -1,3 +1,16 @@
+# WhaarghHammer mod for 1.14.4
+A Minecraft mod created by SmakrypAB to implement featuers from War Hammer
+
+### SmakrypAB: 
+
+
+**Smakrypsletaren**: Lead Mod Developer & coding
+
+
+**JamesFranco_**: JSON Developer & project administration
+
+
+
 ___
 # items: 	
 
