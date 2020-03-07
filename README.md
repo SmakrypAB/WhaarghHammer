@@ -51,7 +51,13 @@ can only be found in Plains Biome unless spawned in using a Poxwalker spawn egg
 	</p>
 	</details>
 
+[attributes code](https://github.com/SmakrypAB/WhaarghHammer/blob/master/src/main/java/smakrypsletaren/whaarghhammer/entities/Poxwalker.java)
 
+Attributes: 
+|  attribute | modifier |
+| ------------- |:-------------:|
+| Max Health | 10.0 |
+| Movement Speed | 1.2 |
 
 ___
 
