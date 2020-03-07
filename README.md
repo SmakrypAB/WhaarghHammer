@@ -1,5 +1,5 @@
 # WhaarghHammer mod for 1.14.4
-A Minecraft mod created by SmakrypAB to implement featuers from War Hammer
+A Minecraft mod created by [SmakrypAB](https://github.com/SmakrypAB/WhaarghHammer/blob/master/README.md#smakrypab) to implement featuers from War Hammer
 
 ### SmakrypAB: 
 
@@ -16,6 +16,12 @@ ___
 
 ### table of contents:
 ___
+
+#### MOBS: 
+
+Poxwalker
+
+___
 #### ITEMS:
 [**adamantium_ingot**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium_ingot)
 
@@ -24,6 +30,29 @@ ___
 [**adamantium_sword**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium-sword)
 
 ___
+
+# Poxwalker
+
+## SPAWN LOCATION:
+can only be found in Plains Biome unless spawned in using a Poxwalker spawn egg
+
+## Texture
+
+[texture link](https://github.com/SmakrypAB/WhaarghHammer-1.14.4-out-dated-/blob/master/src/main/resources/assets/whaarghhammer/textures/entities/poxwalker.png)
+
+<img src="https://github.com/SmakrypAB/WhaarghHammer-1.14.4-out-dated-/blob/master/src/main/resources/assets/whaarghhammer/textures/entities/poxwalker.png" alt="poxwalker texture">
+
+<details>
+	<summmary> show texture </summary>
+	<p>
+<img src="https://cdn.discordapp.com/attachments/390208204984025088/685673330824577133/unknown.png" alt="poxwalker skin">
+	</p>
+	</details>
+
+
+
+___
+
 # adamantium ingot 
 
 ## HOW TO GET: 
