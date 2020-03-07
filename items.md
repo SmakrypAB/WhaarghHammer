@@ -4,7 +4,7 @@ ___
 ### table of contents:
 [**adamantium_ingot**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium_ingot)
 
-[**adamantium block**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/items.md#adamantium-block)
+[**adamantium_block**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/items.md#adamantium-block)
 
 [**adamantium_sword**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium-sword)
 ___
