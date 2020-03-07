@@ -19,15 +19,15 @@ ___
 
 #### MOBS: 
 
-Poxwalker
+[**Poxwalker**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/README.md#poxwalker)
 
 ___
 #### ITEMS:
-[**adamantium_ingot**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium_ingot)
+[**adamantium_ingot**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/README.md#adamantium-ingot)
 
-[**adamantium_block**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/items.md#adamantium-block)
+[**adamantium_block**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/README.md#adamantium-block)
 
-[**adamantium_sword**](https://github.com/SmakrypAB/WhaarghHammer-1.14.4/blob/unfinnished-code/items.md#adamantium-sword)
+[**adamantium_sword**](https://github.com/SmakrypAB/WhaarghHammer/blob/master/README.md#adamantium-sword)
 
 ___
 
@@ -41,6 +41,8 @@ can only be found in Plains Biome unless spawned in using a Poxwalker spawn egg
 [texture link](https://github.com/SmakrypAB/WhaarghHammer-1.14.4-out-dated-/blob/master/src/main/resources/assets/whaarghhammer/textures/entities/poxwalker.png)
 
 <img src="https://github.com/SmakrypAB/WhaarghHammer-1.14.4-out-dated-/blob/master/src/main/resources/assets/whaarghhammer/textures/entities/poxwalker.png" alt="poxwalker texture">
+
+<img src="https://cdn.discordapp.com/attachments/390208204984025088/685677671044481048/unknown.png" alt="spawn egg texture">
 
 <details>
 	<summmary> show texture </summary>
